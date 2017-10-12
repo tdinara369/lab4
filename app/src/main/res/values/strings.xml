@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab4News</string>
+    <string name="name">Name</string>
+    <string name="ok">Ok</string>
+    <string name="time">Date</string>
+    <string name="cancel">Cancel</string>
+    <string name="news">News</string>
+</resources>
